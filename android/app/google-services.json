@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1050597014178",
+    "project_id": "zedd-81fa1",
+    "storage_bucket": "zedd-81fa1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050597014178:android:1a97cf774f810af09335fb",
+        "android_client_info": {
+          "package_name": "com.example.zedd"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050597014178-ntbtv5bv0ebr4dhu2kpenft65jvfbkn6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.zedd",
+            "certificate_hash": "b76852c0fb5025e4200baeba0d6ca3dd8da1dc94"
+          }
+        },
+        {
+          "client_id": "1050597014178-8lhg26sjtsiccep6u9c32q8q3a65e3kf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBAgy0kv_Iv8sAHBD73C672AkiFzhaL684"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050597014178-8lhg26sjtsiccep6u9c32q8q3a65e3kf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050597014178-srk6gv26iqi509v7bl7olrdqh1jj6no6.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.zedd"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
